@@ -1,7 +1,7 @@
 # Copyright (c) 2024 whogben
 # SPDX-License-Identifier: MIT
 # See LICENSE for details.
-@icon("res://addons/gd_json_schema/_gd_json_schema_icon.svg")
+@icon("res://addons/gd_json_schema/_gd_json_schema_icon.png")
 @tool
 class_name JSONSchema
 ## Provides basic validation of JSON Schemas against 
